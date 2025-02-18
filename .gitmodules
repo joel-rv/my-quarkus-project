@@ -1,0 +1,3 @@
+[submodule "/Users/jrojas/tmp/word-document-manipulator/src/test/java/com/example/integration"]
+	path = /Users/jrojas/tmp/word-document-manipulator/src/test/java/com/example/integration
+	url = git@github.com:joel-rv/my-quarkus-project-tests.git
